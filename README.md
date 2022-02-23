@@ -29,3 +29,10 @@ cd example && yarn && yarn serve
 ```
 
 By default, the site will be available at `http://localhost:8080`.
+
+## Further Reading
+
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/introduction.html)
+- [Optimizing wasm binary](https://rustwasm.github.io/docs/book/game-of-life/code-size.html)
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)
+- [wasm-pack](https://github.com/rustwasm/wasm-pack)
